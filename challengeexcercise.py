@@ -1,0 +1,1 @@
+variable = input("print the list of options")
